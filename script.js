@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question: "how many hands do you have",
+    question: "how many hands do you have?",
     a: "10",
     b: "5",
     c: "7",
